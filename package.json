@@ -1,0 +1,12 @@
+
+{
+    "name": "@learn-rn/rn-component-typescript",
+    "version": "0.0.1",
+    "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+    "scripts": {
+      "test": "exit 0"
+    },
+    "files": [
+      "template.config.js"
+    ]
+  }
