@@ -10,6 +10,10 @@
         "test": "jest",
         "lint": "eslint . --ext .ts,.tsx"    
     },
+    "dependencies": {
+      "@reduxjs/toolkit": "^1.8.1",
+      "react-redux": "^8.0.0"
+    },
     "devDependencies": {
         "@babel/core": "^7.12.9",
         "@babel/runtime": "^7.12.5",
